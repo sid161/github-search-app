@@ -13,6 +13,7 @@ import {
 import { Link } from "react-router-dom";
 
 import { UserContext } from "../context/UserContext";
+import "../App.css";
 
 const Header = () => {
   const context = useContext(UserContext);
