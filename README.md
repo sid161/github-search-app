@@ -1,6 +1,6 @@
 `## Github Search App
 This is built with react and firebase with firebase authentication 
-Site is deployed at - https://dazzling-williams-e6b8af.netlify.app.
+Site is deployed at - https://dazzling-williams-e6b8af.netlify.app
 
 ## Available Scripts
 
